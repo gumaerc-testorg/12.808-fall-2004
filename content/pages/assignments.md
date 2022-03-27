@@ -27,9 +27,9 @@ SUPPORTING FILES
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/problem_set_1a-1))
 {{< tdclose >}}
 {{< tdopen >}}
-pucks\_on\_ice.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/assignments/pucks_on_ice.m))  
-draw\_fig2.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/assignments/draw_fig2.m))  
-deriv.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/assignments/deriv.m))
+pucks\_on\_ice.m ([M]({{< baseurl >}}/resources/pucks_on_ice-1))  
+draw\_fig2.m ([M]({{< baseurl >}}/resources/draw_fig2-1))  
+deriv.m ([M]({{< baseurl >}}/resources/deriv-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,9 +48,9 @@ station.zip ([ZIP]({{< baseurl >}}/resources/station)) (The ZIP file contains: 1
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/problemset_3-1))
 {{< tdclose >}}
 {{< tdopen >}}
-TSvolumetric.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/assignments/TSvolumetric.m))  
+TSvolumetric.m ([M]({{< baseurl >}}/resources/tsvolumetric-1))  
 Global Hydrographic Climatology ([PDF]({{< baseurl >}}/resources/gbl_hgpc_atlas))  
-atlas\_test.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/lecture-notes/atlas_test.m))  
+atlas\_test.m ([M]({{< baseurl >}}/resources/atlas_test))  
 ghc\_Ni.mat ([MAT - 21.1 MB]({{< baseurl >}}/resources/ghc_ni))  
 ghc\_Oxkg.mat ([MAT - 21.1 MB]({{< baseurl >}}/resources/ghc_oxkg))  
 gjc\_Ph.mat ([MAT - 21.1 MB]({{< baseurl >}}/resources/ghc_ph))  

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ef93ed20-a1f6-8ea8-7852-0c708fa9bcf9
 resourcetype: Other
 title: phyprop.zip
 uid: 3900e026-923b-62e0-a57d-cec55940327b

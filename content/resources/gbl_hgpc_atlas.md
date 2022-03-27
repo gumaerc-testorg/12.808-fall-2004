@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ef93ed20-a1f6-8ea8-7852-0c708fa9bcf9
 resourcetype: Document
 title: gbl_hgpc_atlas.pdf
 uid: c24ae059-4fb5-a634-554d-9284631f8384

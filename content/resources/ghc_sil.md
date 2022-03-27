@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ef93ed20-a1f6-8ea8-7852-0c708fa9bcf9
 resourcetype: Other
 title: ghc_Sil.mat
 uid: 6562a9dc-e598-35ad-939b-7bd1d917ee82

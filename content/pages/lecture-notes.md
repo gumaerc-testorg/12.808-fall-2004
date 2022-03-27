@@ -95,7 +95,7 @@ Observations of the Gulf Stream in the N. Atlantic ([PDF]({{< baseurl >}}/resour
 Global Hydrographic Climatology ([PDF]({{< baseurl >}}/resources/gbl_hgpc_atlas))  
   
 Supporting Files  
-atlas\_test.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/lecture-notes/atlas_test.m))  
+atlas\_test.m ([M]({{< baseurl >}}/resources/atlas_test))  
 ghc\_Ni.mat ([MAT - 21.1 MB]({{< baseurl >}}/resources/ghc_ni))  
 ghc\_Oxkg.mat ([MAT - 21.1 MB]({{< baseurl >}}/resources/ghc_oxkg))  
 ghc\_Ph.mat ([MAT - 21.1 MB]({{< baseurl >}}/resources/ghc_ph))  
@@ -182,5 +182,5 @@ Final Exam
 {{< anchor "adds" >}}{{< /anchor >}}Additional Files
 ----------------------------------------------------
 
-coriolis.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-808-introduction-to-observational-physical-oceanography-fall-2004/lecture-notes/coriolis.m))  
+coriolis.m ([M]({{< baseurl >}}/resources/coriolis))  
 phyprop.zip ([ZIP]({{< baseurl >}}/resources/phyprop)) (The ZIP file contains: 38 .m files.)

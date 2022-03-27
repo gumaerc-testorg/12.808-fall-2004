@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8f435953-391c-88ce-83a3-88bc9a261ae6
 resourcetype: Document
 title: readme.pdf
 uid: 67018f86-5fbb-d18f-3151-b530846dbb62
