@@ -4,6 +4,7 @@ description: ''
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/ac38511a7b4e0e289425e2f12f4ac384_pucks_on_ice.m
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: pucks_on_ice.m

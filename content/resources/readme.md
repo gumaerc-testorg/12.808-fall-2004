@@ -4,6 +4,7 @@ description: ''
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/32e511e44a0e2d6293a1f61abcb984c4_readme.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: readme.pdf

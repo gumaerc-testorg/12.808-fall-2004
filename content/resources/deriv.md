@@ -4,6 +4,7 @@ description: ''
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/115d1a2d4cd7241c27be8b5bd5fe37e0_deriv.m
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: deriv.m
