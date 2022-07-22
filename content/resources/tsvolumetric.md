@@ -1,14 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/4c238ff1f5491c0d8ccbd36466202a6c_station71.zip
-file_type: application/zip
+file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/eaf0177e995fbe6a6e642bdb99b89775_TSvolumetric.m
+file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
-title: station71.zip
-uid: 4c238ff1-f549-1c0d-8ccb-d36466202a6c
+title: TSvolumetric.m
+uid: eaf0177e-995f-be6a-6e64-2bdb99b89775
 video_files:
   video_thumbnail_file: null
 video_metadata:

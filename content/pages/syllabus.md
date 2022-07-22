@@ -1,7 +1,17 @@
 ---
 content_type: page
+description: 'This course covers topics like: Observational physical oceanography,
+  physical description of the sea, physical properties of seawater, methods and measurements,
+  wind-driven ocean circulation, abyssal ocean circualtion, boundary processes, wave
+  motions'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a396c9e9-6de8-ce7b-442b-d9227daf8f42
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
