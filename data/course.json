@@ -45,8 +45,10 @@
     "website": "12-808-introduction-to-observational-physical-oceanography-fall-2004"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets"
   ],
-  "site_uid": "72b9a787-1708-4db8-9a19-ec2faa3c4017",
+  "site_uid": "51acda96-3c99-4c7d-9bc0-02c2c5e7dfa3",
+  "site_short_id": "12.808-fall-2004",
   "title": "Course Metadata"
 }
