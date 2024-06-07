@@ -2,6 +2,7 @@
 content_type: resource
 description: Detailed notes on topics covered in the lecture.
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/82b1ee41577ebde869004cf989c27f56_course_notes_11.pdf
+file_size: 140202
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

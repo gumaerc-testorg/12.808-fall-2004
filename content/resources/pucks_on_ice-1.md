@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for problem set 1.
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/072ce287b3a11ac7a4a42fa4f186a25b_pucks_on_ice.m
+file_size: 13275
 file_type: text/plain
 learning_resource_types:
 - Assignments
