@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for special lecture.
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/1e379c6dee417b45741e6d6aad3e80c1_coriolis.m
+file_size: 11491
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

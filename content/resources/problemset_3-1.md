@@ -2,6 +2,7 @@
 content_type: resource
 description: This homework assignment consists of three problems.
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/6d8f9798de3dcd9728e0c157d17fd1ac_problemset_3.pdf
+file_size: 57411
 file_type: application/pdf
 learning_resource_types:
 - Assignments

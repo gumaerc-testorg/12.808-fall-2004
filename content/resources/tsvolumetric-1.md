@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting MATLAB? file for problem set 3.
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/d316b1e9c87f4a011396aca2e1face07_TSvolumetric.m
+file_size: 2775
 file_type: text/plain
 learning_resource_types:
 - Assignments

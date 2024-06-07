@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/e2402e6f7bb4a249aacc110be4c5df53_problem_set_2b.pdf
+file_size: 259317
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
