@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: consists of links to different topics.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -10,10 +11,9 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+[*Introduction to Physical Oceanography*](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf) by Robert Stewart
 
-[_Introduction to Physical Oceanography_](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf) by Robert Stewart
-
-[_Regional Oceanography: An Introduction_](https://www.mt-oceanography.info/regoc/pdfversion.html) by Matthias Tomczak and Stuart Godfrey
+[*Regional Oceanography: An Introduction*](https://shop.elsevier.com/books/regional-oceanography/tomczak/978-0-08-041021-0) by Matthias Tomczak and Stuart Godfrey
 
 [Climate Data Library](http://ingrid.ldeo.columbia.edu/)
 
