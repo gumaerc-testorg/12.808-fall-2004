@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/eaf0177e995fbe6a6e642bdb99b89775_TSvolumetric.m
+file: /ol-ocw-studio-app/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/eaf0177e995fbe6a6e642bdb99b89775_TSvolumetric.m
 file_size: 2775
 file_type: text/plain
 learning_resource_types: []
