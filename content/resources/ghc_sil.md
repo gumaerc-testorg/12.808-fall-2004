@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for special lecture.
-file: /ol-ocw-studio-app/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/6562a9dce59835ad939b7bd1d917ee82_ghc_Sil.mat
+file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/6562a9dce59835ad939b7bd1d917ee82_ghc_Sil.mat
 file_size: 36996
 file_type: application/octet-stream
 learning_resource_types:

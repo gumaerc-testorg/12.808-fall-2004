@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/b8796826374c2608f676a0db478c7ee6_problem_set_1a.pdf
+file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/b8796826374c2608f676a0db478c7ee6_problem_set_1a.pdf
 file_size: 81224
 file_type: application/pdf
 learning_resource_types: []
