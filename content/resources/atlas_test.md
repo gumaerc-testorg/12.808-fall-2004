@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for special lecture.
-file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/34bbbfc0631aab75f5d417264483b615_atlas_test.m
+file: /ol-ocw-studio-app/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/34bbbfc0631aab75f5d417264483b615_atlas_test.m
 file_size: 7573
 file_type: text/plain
 learning_resource_types:
