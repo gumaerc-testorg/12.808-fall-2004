@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Collection of compressed MATLAB? files. The ZIP file contains 38 .m files.
-file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/3900e026923b62e0a57dcec55940327b_phyprop.zip
+file: /ol-ocw-studio-app/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/3900e026923b62e0a57dcec55940327b_phyprop.zip
 file_size: 44801
 file_type: application/zip
 learning_resource_types:
