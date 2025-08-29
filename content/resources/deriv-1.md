@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting MATLAB? file for problem set 1.
-file: /courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/7b4a2174a4f8eef4f455126e78c7120e_deriv.m
+file: /ol-ocw-studio-app/courses/12-808-introduction-to-observational-physical-oceanography-fall-2004/7b4a2174a4f8eef4f455126e78c7120e_deriv.m
 file_size: 3258
 file_type: text/plain
 learning_resource_types:
