@@ -11,10 +11,10 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-{{% resource_link "decab6ce-e9a5-4303-8f4b-487616f4fd25" "*Introduction to Physical Oceanography*" %}} by Robert Stewart
+[*Introduction to Physical Oceanography*](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf) by Robert Stewart
 
-{{% resource_link "53cf34cf-239b-4202-a062-a9ecf47a724c" "*Regional Oceanography: An Introduction*" %}} by Matthias Tomczak and Stuart Godfrey
+[*Regional Oceanography: An Introduction*](https://shop.elsevier.com/books/regional-oceanography/tomczak/978-0-08-041021-0) by Matthias Tomczak and Stuart Godfrey
 
-{{% resource_link "6af7c4a8-65ce-4d18-be08-c250e216e84e" "Climate Data Library" %}}
+[Climate Data Library](http://ingrid.ldeo.columbia.edu/)
 
-{{% resource_link "e78f478d-5e5e-4dbf-ab54-28a788257372" "The TAO/TRITON Array" %}}
+[The TAO/TRITON Array](http://www.pmel.noaa.gov/tao/jsdisplay/)
